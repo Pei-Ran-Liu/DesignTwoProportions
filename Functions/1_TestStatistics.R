@@ -15,9 +15,9 @@ z_pool <- function(y1, y2, n1, n2, delta){
   p2 <- y2/n2
   pool <- (y1+y2)/(n1+n2)
   
-  # for delta==0 
+  # for delta==0
   check_1 <- (delta==0) & ((y1==0&y2==0)||(y1==n1&y2==n2))
-  # for delta!=0 
+  # for delta!=0
   check_2 <- (delta!=0) & (y1==n1&y2==n2)
   
   if( check_1||check_2 ){
@@ -42,11 +42,11 @@ z_unpool <- function(y1, y2, n1, n2, delta){
   p1 <- y1/n1
   p2 <- y2/n2
   
-  # for delta==0 
+  # for delta==0
   check_1 <- (delta==0) & (y1==0&y2==0||y1==n1&y2==n2)
   # for another delta==0
   check_2 <- (delta==0) & (y1==n1&y2==0||y1==0&y2==n2)
-  # for delta!=0 
+  # for delta!=0
   check_3 <- (delta!=0) & (y1==n1&y2==n2)
   
   if( check_1||check_3 ){
