@@ -1,4 +1,4 @@
-# DesignTwoProportions
+# Design of Two Sample Proportions
 
 This repository contains R code associated with the article titled "Are the Tests Overpowered or Underpowered? A Unified Solution to Correctly Specify Type I Errors in the Design of Clinical Trials for Two Sample Proportions." This article was published in *Statistics in Medicine*. Please fell free to email peiran.liu@uconn.edu if you have any questions or comments.
 
