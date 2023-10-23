@@ -15,4 +15,4 @@ There are seven pieces of code that comprise the implementation of the methodolo
 - 7_GridSearch.R: This R code facilitates **the grid search algorithm** for comparison purposes in measuring run time, showcasing the effectiveness of our proposed method. Please be aware that the execution of this approach might take a considerable amount of time.
 
 ## Simulations Folder
-
+The names of these three pieces of code correspond to the superiority trial, the noninferiority trial, and the comparison in running time, as discussed in Section 5 of the main paper. Please refer to the article for detailed settings of these simulation studies.
