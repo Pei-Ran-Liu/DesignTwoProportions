@@ -1,8 +1,8 @@
 # Design of Two Sample Proportions
 
-This repository contains R code associated with the article titled "Are the Tests Overpowered or Underpowered? A Unified Solution to Correctly Specify Type I Errors in the Design of Clinical Trials for Two Sample Proportions." This article was published in *Statistics in Medicine*. Please fell free to email peiran.liu@uconn.edu if you have any questions or comments.
+This repository contains R code associated with the article titled "Are the Tests Overpowered or Underpowered? A Unified Solution to Correctly Specify Type I Errors in the Design of Clinical Trials for Two Sample Proportions." This article was submitted to *Statistics in Medicine*. Please fell free to email peiran.liu@uconn.edu if you have any questions or comments.
 
-The codes aid in the design of two-sample proportion tests using precise calculations. The repository includes two folders: one contains the functions for the proposed methodology, and the other houses the simulations used in the article.
+The codes aid in the design of two-sample proportion tests in their difference using exact calculations. The repository includes two folders: one contains the functions for the proposed methodology, and the other houses the simulations used in the article.
 
 ## Functions Folder
 There are seven pieces of code that comprise the implementation of the methodology.
